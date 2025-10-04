@@ -1,5 +1,10 @@
 # tradingutils
 
+**Update (10/3/2025)** Combining these tools with other strategies, I've been able to generate over a 20% return in the past 6 weeks, compared to the S&P500's 5%! The starting capital was an amount between $XXXX to $XXXXXX.
+
+<img src="https://github.com/brcssong/tradingutils/blob/main/performance_update.jpg" height="200" />
+
+
 trading utils for high-intraday-momentum (penny-stock) recommendations using technical analysis and ML-powered return predictions.
 
 eventually, the goal is to combine both into a novel, terminal-like interface where users can choose stocks and minimalistically monitor prices/candles of the selected tickers, and trade using simple+effortless commands.
@@ -15,6 +20,8 @@ i hope to also integrate this with an algorithmic flow that would allow for auto
 [3] `brew install ta-lib` on Mac (or install TA-lib the right method for your OS)
 
 [4] `cd` into the respective folder and mess with the code!
+
+### subproject specifities
 
 For the return-predictor, simply step through the .ipynb and tweak the presets as whimsy dictates. The fundamental model is a neural net with a small number of layers and nodes per layer. Using a Linear->BatchNorm->ReLU activation->Dropout scheme and AdamW+MSE+LR scheduler. The sentiment model is adapted from `finbert-tone` on HuggingFace. Yahoo Finance, Alpaca, and the Wayback Machine are all auxiliary resources leveraged by the code.
 
