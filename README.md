@@ -1,6 +1,6 @@
 # tradingutils
 
-**Update (10/3/2025)** Combining these tools with other strategies, I've been able to generate over a 20% return in the past 6 weeks, compared to the S&P500's 5%! The starting capital was an amount between $XXXX to $XXXXXX.
+**Update (10/3/2025)** Combining these tools with other strategies, I've been able to generate over a 20% return in the past 6 weeks in my personal account, compared to the S&P500's 5%! The starting capital was an amount between $XXXX to $XXXXXX.
 
 <img src="https://github.com/brcssong/tradingutils/blob/main/performance_update.jpg" height="200" />
 
