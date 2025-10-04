@@ -1,6 +1,6 @@
 # tradingutils
 
-**Update (10/3/2025)** Combining these tools with other strategies, I've been able to generate over a 20% return in the past 6 weeks in my personal account, compared to the S&P500's 5%! The starting capital was an amount between $XXXX to $XXXXXX. This wasn't a crazy lucky all-in play either; as the graph shows, the Sharpe seems pretty reasonable.
+**Update (10/3/2025)** Combining these tools with other strategies, I've been able to generate over a 20% return in the past 6 weeks in my personal account, compared to the S&P500's 5%! The starting capital was an amount between $XXXX and $XXXXXX. This wasn't a crazy lucky all-in play either; as the graph shows, the Sharpe seems pretty reasonable.
 
 <img src="https://github.com/brcssong/tradingutils/blob/main/performance_update.jpg" height="200" /><img src="https://github.com/brcssong/tradingutils/blob/main/performance_graph.jpg" height="200" />
 
