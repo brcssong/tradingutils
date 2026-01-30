@@ -1,8 +1,12 @@
 # tradingutils
 
-**Update (10/3/2025)** Combining these tools with other strategies, I've been able to generate over a 20% return in the past 6 weeks in my personal account, compared to the S&P500's 5%! The starting capital was an amount between $XXXX and $XXXXXX. This wasn't a crazy lucky all-in play either; as the graph shows, the Sharpe seems pretty reasonable.
+**Update (10/3/2025)** Combining these tools with other strategies, I've been able to generate over a 20% return in the past 6 weeks in my personal account, compared to the S&P500's 5%! The starting capital was in the 5-digits.
 
 <img src="https://github.com/brcssong/tradingutils/blob/main/performance_update.jpg" height="200" /><img src="https://github.com/brcssong/tradingutils/blob/main/performance_graph.jpg" height="200" />
+
+**Update (1/29/2025)** Achieved a near 40% return for the past 5 months cumulatively. Consistently outperformed S&P500 by ~10x.
+
+<img src="https://github.com/brcssong/tradingutils/blob/main/performance_update_2.jpg" height="200" />
 
 trading utils for high-intraday-momentum (penny-stock) recommendations using technical analysis and ML-powered return predictions.
 
